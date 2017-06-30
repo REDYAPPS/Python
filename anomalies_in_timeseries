@@ -1,6 +1,0 @@
-Introduction
-This Notebook will help you to identify anomalies in your historical timeseries data (IoT data) in simple steps. 
-Also, derive the threshold value for your historical data. This threshold value can be used to set rules in Watson IoT Platform, 
-such that you get an alert when your IoT device reports an abnormal reading in the future.
-
-https://github.com/ibm-watson-iot/predictive-analytics-samples/blob/master/Notebook/Anomaly-detection-DSX.ipynb?cm_mc_uid=63550219002714956338333&cm_mc_sid_50200000=1498823313
